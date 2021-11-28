@@ -19,3 +19,4 @@ Berikut Programnya:<P>
 ![gambar 1](screenshot/fc1.PNG)
 dan berikut hasil outputnya:<P>
 ![gambar 2](screenshot/fc2.PNG)
+itu lah program nya terimakasih.<P>
